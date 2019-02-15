@@ -14,8 +14,8 @@ $ open DeepLabApp.xcworkspace
 
 ### Update you team settings
 Open Project settings->General and change Team.
-![Static images](https://raw.githubusercontent.com/VolodymyrPavliukevych/DeepLabApp/Updata_your_team_settings.png)
+![Static images](https://github.com/VolodymyrPavliukevych/DeepLabApp/raw/master/Updata_your_team_settings.png)
 
 ### Result 
-![Static images](https://raw.githubusercontent.com/VolodymyrPavliukevych/DeepLabApp/static_images.gif)
-![Real time](https://raw.githubusercontent.com/VolodymyrPavliukevych/DeepLabApp/real_time.gif)
+![Static images](https://github.com/VolodymyrPavliukevych/DeepLabApp/raw/master/static_images.gif)
+![Real time](https://github.com/VolodymyrPavliukevych/DeepLabApp/raw/master/real_time.gif)
